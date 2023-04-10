@@ -1,7 +1,7 @@
 {
   "name": "portifolio",
   "version": "0.1.0",
-  "homepage": "https://Lucas-marques-web.github.io/My-Portfolio",
+  "homepage": "https://Lucas-marques-web.github.io/portifolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
