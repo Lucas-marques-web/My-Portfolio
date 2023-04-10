@@ -200,3 +200,19 @@
       font-size: 12px;
      }
   }
+  @media (min-width: 800px) {
+    h1{
+      font-size: 4.0rem;
+    }
+    body{
+      font-size: 1.5rem;
+    }
+    a:hover{
+      font-size: 1.6rem;
+    }
+     .about-content{
+      font-size: 1rem;
+     }
+    
+     
+  }
