@@ -1,4 +1,4 @@
-# Portfolio
+# Old Portfolio  no longer used
 This is my portifolio website built with React , Bootstrap and other tecnologies. It allows users see my projects and get my contact info in a responsive web interface.
 
 ## Features
